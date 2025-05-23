@@ -29,7 +29,7 @@ export default {
   appHeader: {
     display: "flex",
     justifyContent: "space-between",
-    backgroundColor: "#06033A",
+    backgroundColor: "#2970ec",
     padding: "20px 25px",
   },
   appLogoWrapper: {
